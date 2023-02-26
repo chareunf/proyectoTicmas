@@ -26,7 +26,7 @@ body {
 /*Header*/
 header {
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(161, 140, 209, 0.4) 0%, rgba(251, 194, 235, 0.4) 100%), url(/assets/img/imagenPrincipal.jpg);
+    background-image: linear-gradient(to top, rgba(161, 140, 209, 0.4) 0%, rgba(251, 194, 235, 0.4) 100%), url(../img/imagenPrincipal.jpg);
 
     background-repeat: no-repeat;
     background-size: cover;
